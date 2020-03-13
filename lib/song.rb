@@ -28,6 +28,6 @@ class Song
   end
 
   def self.genre_count
-    @@genre.tally
+    @@genres.tally
   end
 end
